@@ -1,0 +1,28 @@
+{
+  "requests" : [
+    {
+      "method" : "getasdasdasd",
+      "url" : "http://api.google.it/v1/",
+      "body" : {},
+      "headers" : [{}],
+      "options" : [{}],
+      "expected_response_schema" : {
+
+      },
+      "polling_interval" : 60000,
+      "log_file" : "asd1"
+    },
+    {
+      "method" : "get",
+      "url" : "http://api.google.it/v1/",
+      "body" : {},
+      "headers" : [{}],
+      "options" : [{}],
+      "expected_response_schema" : {
+
+      },
+      "polling_interval" : 60000,
+      "log_file" : "asd2"
+    }
+  ]
+}
